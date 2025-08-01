@@ -1,0 +1,21 @@
+body{
+background-color: lightblue;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

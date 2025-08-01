@@ -1,0 +1,172 @@
+body {
+    background-color: lightblue;
+}
+
+.item:hover {
+    background-color: rgb(80, 157, 196);
+    opacity: 0.5;
+}
+
+nav {
+    display: flex;
+    background-color: white;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+#Hi {
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+}
+
+#GUI {
+   color: black; 
+}
+
+#front {
+display: flex;
+justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#itsame {
+    font-size: 30px;
+}
+
+#Canelo {
+    height: 200px;
+    margin-left: 17%;
+
+}
+
+#about_me {
+    background-color: lightblue;
+    margin-left: 30%;
+    margin-right: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+#about_me_description {
+font-size: 20px;
+}
+
+#freetime_and_family {
+background-color: lightblue;
+margin-left: 5%;
+margin-right: 5%;
+display: flex;
+justify-content: space-around;
+}
+
+#freetime_description {
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#family_description {
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+#about_me_photos{
+    height: 200px;
+    margin-left: 30%;
+    
+}
+
+#Future {
+    background-color: lightblue;
+    display: flex;
+}
+
+h1 {
+display: flex;
+justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+#Future_description {
+    font-size: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#future_photo {
+    margin-left: 35%;
+    padding-bottom: 20%;
+}
+
+#Academics {
+    font-size: 20;
+    background-color: rgb(129, 14, 14);
+    padding-top: 5%;
+
+}
+
+#FDA {
+    width: 200px;
+    height: 200px;
+    
+}
+
+li {
+    color: rgb(216, 216, 24);
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    font-size: 30px;
+}
+
+#Heading_for_academics {
+    color: white;
+}
+
+#Extra-curriculars{
+    background-color: lightblue;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#Extra-curriculars1{
+    background-color: orange;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#DYlogo7{
+    margin-left: 3%;
+}
+#images {
+    margin-left: 3%;
+    width: 270px;
+    height: 50px;
+}
+
+#Extra-curriculars_header{
+    background-color: orange;
+}
+
+#Extacurricular_description2{
+    background-color: rgb(65, 142, 235);
+    display: flex;
+    justify-content: flex-start;
+}
+
+#quote {
+    padding-left: 50px;
+    font-size: 25px;
+}
+
+#anyLink {
+    font-size: 25px;
+}
