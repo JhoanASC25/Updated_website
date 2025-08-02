@@ -2,10 +2,7 @@ body {
     background-color: lightblue;
 }
 
-.item:hover {
-    background-color: rgb(80, 157, 196);
-    opacity: 0.5;
-}
+
 
 nav {
     display: flex;
@@ -24,11 +21,10 @@ nav {
    color: black; 
 }
 
-#front {
-display: flex;
-justify-content: center;
-    margin-left: 30%;
-    margin-right: 30%;
+#startImage {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 #itsame {
@@ -51,6 +47,14 @@ justify-content: center;
 
 #about_me_description {
 font-size: 20px;
+display: flex;
+text-align: center;
+}
+
+.fontSize{
+    display: flex;
+    justify-content: center;
+
 }
 
 #freetime_and_family {
@@ -169,4 +173,5 @@ li {
 
 #anyLink {
     font-size: 25px;
+    margin-top: 2em;
 }

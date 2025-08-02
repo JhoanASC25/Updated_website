@@ -1,8 +1,36 @@
-body {
-    background-color: lightblue;
+body{
+background-color: lightblue;
 }
 
-h1 {
+h1{
     display: flex;
     justify-content: center;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+#imgDiv{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 32%;
+}
+
+#buttonDiv{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#next {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
